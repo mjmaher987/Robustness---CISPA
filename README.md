@@ -6,4 +6,5 @@ CISPA Summer Internship
   - Teacher: Resnet18
   - Student: MobileNet
   - Dataset: CIFAR-10
+  - Source Code: https://github.com/goldblum/AdversariallyRobustDistillation
 
