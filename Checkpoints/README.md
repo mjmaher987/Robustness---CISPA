@@ -1,1 +1,1 @@
-
+Since the file size is out of the GitHub requirement, I save the checkpoint of a ResNet-50 model trained by AT on CIFAR-10 in [at_cifar10_resnet50.pth](https://drive.google.com/drive/folders/1dSILy5g4S6Qo-g0heiMLQY1Rw6_Jg2Pa?usp=sharing)
