@@ -9,3 +9,6 @@ CISPA Summer Internship
   - Source Code: https://github.com/goldblum/AdversariallyRobustDistillation
 - [ ] Deadline: 17th August - Re-implement the ARD using Colab GPU
 
+### REFERENCE
+
+- [Adversarially Robust Distillation](https://arxiv.org/abs/1905.09747)
