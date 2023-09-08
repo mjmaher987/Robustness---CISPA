@@ -12,3 +12,7 @@ CISPA Summer Internship
 ### REFERENCE
 
 - [Adversarially Robust Distillation](https://arxiv.org/abs/1905.09747)
+
+### Links
+- wideresnet34:
+https://drive.google.com/file/d/10sHvaXhTNZGz618QmD5gSOAjO3rMzV33/view
